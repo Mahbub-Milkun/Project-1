@@ -1,0 +1,229 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    background-color:#EEE;
+    font-family: "Crimson Text", serif;
+    font-style: italic;
+}
+
+.container{
+    background-color: #D2E3FC;
+    max-width:1000px;
+    margin:0 auto;
+    padding:30px;
+
+}
+
+/*Heading Start*/
+
+h1, h2, h3, h4, h5, h6{
+    color:#00584C;
+}
+.pro-pic{
+    width:200px;
+    height:190px;
+    border:10px solid white;
+    border-radius:50%;
+    float:left;
+    
+}
+
+.profile-bio{
+    float:left;
+    padding:50px;
+}
+
+.profile-contact{
+    float:right;
+    padding: 30px;
+    
+}
+
+.profile-contact a{
+    color:#00584C;
+    text-decoration:none;
+    font-weight: bold;
+}
+
+.profile-contact a:hover{
+    color:tomato;
+    text-decoration:overline;
+}
+
+.div-clear{
+    clear:both;
+}
+
+/*Horigntal Row start*/
+
+hr{
+    border:3px solid black;
+    width:100%;
+    margin: 20px auto;
+    border-bottom:none;
+}
+/*Horigntal Row end*/
+
+/*Heading End*/
+
+/*Main Section start*/
+/*personal section start*/
+#personal-section{
+
+}
+
+.content{
+    margin-bottom:30px;
+}
+
+.left-div{
+    float:left;
+    width:30%;
+
+}
+
+.right-div{
+    float:left;
+    width:70%;
+}
+
+.common-hr{
+    width:100%;
+    margin:20px auto;
+    border:1px solid black;
+    border-bottom:none;
+}
+/*Personal Section End */
+
+/*work Experince start*/
+    #work-section{
+
+    }
+
+    .content2{
+        margin-bottom:30px;
+
+    }
+
+    .left-div1{
+        float:left;
+        width:30%;
+    }
+
+    .right-div2{
+        float:left;
+        width:70%;
+    }
+/*Work Experince End*/
+
+/*Key Skill section start*/
+
+    #key-section{
+
+    }
+
+    .content3{
+        margin-bottom:30px;
+    }
+
+    .left-div3{
+        float: left;
+        width:30%;
+    }
+
+    .right-div3{
+        float:left;
+        width:70%;
+    }
+    
+/*Key Skill section end*/
+
+/*Education section start*/
+    #education-section{
+
+    }
+    .content4{
+
+    }
+
+    .left-div4{
+        float:left;
+        width:30%;
+    }
+
+    .right-div4{
+        float:left;
+        width:35%;
+    }
+/*Education section end*/
+
+/*Honors Section start*/
+
+#Honors-section{
+
+}
+
+.content5{
+ margin-bottom:30px;
+}
+
+.left-div5{
+    float:left;
+    width:30%;
+}
+
+.right-div5{
+    float:left;
+    width:70%;
+}
+/*Honors Section end*/
+
+/*Reference section start*/
+    #References-section{
+
+    }
+
+    .content6{
+        margin-bottom:30px;
+    }
+
+    .left-div6{
+        float:left;
+        width:30%;
+    }
+
+    .right-div66{
+        float:left;
+        width:35%;
+    }
+
+    .right-div66{
+        float:right;
+        width:35%;
+    }
+/*Reference section end*/
+
+/*Foother section start*/
+    .bottom-section{
+        background-color: black;
+        text-align: center;
+        width: 100% auto;
+        padding: 10px;
+    }
+
+    .bottom-section a{
+        color: white;
+        text-decoration: none;
+        margin:20px;
+    
+    }
+
+    .bottom-section p{
+        color: yellow;
+        margin-top:20px ;
+    }
+/*Footer section end*/
+
+/*Main Section end*/
